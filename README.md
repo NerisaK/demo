@@ -1,5 +1,5 @@
 ## API
-"https://my-json-server.typicode.com/NerisaK/demo/db"
+"https://my-json-server.typicode.com/NerisaK/dictionary/db"
 
 ## Content
 
